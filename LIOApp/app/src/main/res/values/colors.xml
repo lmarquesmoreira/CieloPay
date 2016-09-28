@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00aeef</color>
+    <color name="colorPrimaryDark">#00aeef</color>
+    <color name="colorAccent">#0070ef</color>
+    <color name="colorBtn">#6534AD</color>
+    <color name="colorWhite">#FFF</color>
+
+    <color name="colorEntrando">#00aeef</color>
+    <color name="colorPago">#0fe14e</color>
+    <color name="colorCancelado">#ff090d</color>
+</resources>
